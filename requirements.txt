@@ -1,0 +1,5 @@
+# django==1.7
+# if django 1.7 is still in beta, use
+# pip3 install https://github.com/django/django/archive/stable/1.7.x.zip
+
+selenium
